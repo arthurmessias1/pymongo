@@ -1,0 +1,49 @@
+[
+  {
+    "_id":10,
+    "endereco":[
+      {
+        "tipo":"Galpão",
+        "logradouro": "Br 101",
+        "numero":"S/N",
+        "bairro":"Centro",
+        "cidade":"Macaiba",
+        "estado":"Rio Grande do Norte",
+        "País":"Brasil",
+        "cep": "99999-999"
+      }
+    ]
+  },
+  {
+    "_id":20,
+    "endereco":[
+      {
+        "tipo":"Galpão",
+        "logradouro": "Rodovia Regis Bittencourt",
+        "numero":"1000",
+        "complemento":"KM 70",
+        "bairro":"Centro",
+        "cidade":"São Paulo",
+        "estado":"São Paulo",
+        "País":"Brasil",
+        "cep": "99999-999"
+      }
+    ]
+  },
+  {
+    "_id":30,
+    "endereco":[
+      {
+        "tipo":"Galpão",
+        "logradouro": "Av. Pedro Teixeira",
+        "numero":"S/N",
+        "complemento":"KM 70",
+        "bairro":"Dom Pedro",
+        "cidade":"Manaus",
+        "estado":"Amazonas",
+        "País":"Brasil",
+        "cep": "69040-000"
+      }
+    ]
+  }
+]

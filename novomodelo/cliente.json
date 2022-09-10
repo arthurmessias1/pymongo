@@ -1,0 +1,133 @@
+[
+  {
+    "_id": 1000,
+    "tipoCliente":"Pessoa Física",
+    "nome":"Arthur Pinheiro Messias",
+    "email":"12912@fiap.com.br",
+    "sexo":"M",
+    "telefone":"8499999999",
+    "endereco":[
+      {
+        "idEntrega":1,
+        "tipo":"Apartamento",
+        "logradouro": "Rua das Acácias",
+        "numero":"102",
+        "complemento":"apt 401",
+        "bairro":"Madalena",
+        "cidade":"Recife",
+        "estado":"Pernambuco",
+        "País":"Brasil",
+        "cep": "52011-270"
+      },
+      {
+        "idEntrega":2,
+        "tipo":"Trabalho",
+        "logradouro": "Rua da Amizade",
+        "numero":"200b",
+        "bairro":"Graças",
+        "cidade":"Recife",
+        "estado":"Pernambuco",
+        "País":"Brasil",
+        "cep": "52011-300"
+      }
+    ],
+    "infoBancarias":[
+      {
+        "cartaoCredito":[
+          {
+            "idCredito":1,
+            "bandeira":"Mastercard",
+            "numero":3191093948171029,
+            "validade":"20/01/2030",
+            "cvv":"593"
+          },
+          {
+            "idCredito":2,
+            "bandeira":"Visa",
+            "numero":9237809394817029,
+            "validade":"15/10/2035",
+            "cvv":"532"
+          }
+        ],
+        "contaCorrente":[
+          {
+            "idConta":1,
+            "banconome":"Banco do Brasil",
+            "bancoCodigo":"001",
+            "agencia":3901,
+            "digitoAgencia":2,
+            "conta":28910,
+            "digitoConta":4,
+            "pix":"12912@fiap.com.br"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 1001,
+    "tipoCliente":"Pessoa Física",
+    "nome":"João Victor",
+    "email":"918319@fiap.com.br",
+    "sexo":"M",
+    "telefone":"1199994399",
+    "endereco":[
+      {
+        "idEntrega":1,
+        "tipo":"Apartamento",
+        "logradouro": "Av.Faria Lima",
+        "numero":"800",
+        "complemento":"apt 401",
+        "bairro":"Pinheiros",
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "país":"Brasil",
+        "cep": "05426-200"
+      },
+      {
+        "idEntrega":2,
+        "tipo":"Sala",
+        "logradouro": "Av.Faria Lima",
+        "numero":"1001",
+        "complemento":"Sala 13",
+        "bairro":"Pinheiros",
+        "cidade":"São Paulo",
+        "estado":"SP",
+        "país":"Brasil",
+        "cep": "05426-200"
+      }
+    ],
+    "infoBancarias":[
+      {
+        "cartaoCredito":[
+          {
+            "idCredito":1,
+            "bandeira":"Mastercard",
+            "numero":3191093948171029,
+            "validade":"20/01/2040",
+            "cvv":"593"
+          },
+          {
+            "idCredito":2,
+            "bandeira":"Visa",
+            "numero":9237809394817029,
+            "validade":"15/10/2035",
+            "cvv":"532"
+          }
+        ],
+        "contaCorrente":[
+          {
+            "idConta":1,
+            "banconome":"Banco do Brasil",
+            "bancoCodigo":"001",
+            "agencia":2000,
+            "digitoAgencia":2,
+            "conta":39187,
+            "digitoConta":1,
+            "pix":"918319@fiap.com.br"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "_id": 101,
+    "nome":"Mochila",
+    "precoSugerido":199.90,
+    "precoComprado":79.90,
+    "descricao":"Mochila Nike para Notebook",
+    "inventario":[
+      {
+        "id_armazem":20,
+        "qtdEstoque":10
+      },
+      {
+        "id_armazem":30,
+        "qtdEstoque":20
+      }
+    ]
+  },
+  {
+    "_id": 201,
+    "nome":"Tenis",
+    "precoSugerido":399.90,
+    "precoComprado":159.90,
+    "descricao":"Tenis Adidas Star",
+    "inventario":[
+      {
+        "id_armazem":10,
+        "qtdEstoque":100
+      },
+      {
+        "id_armazem":20,
+        "qtdEstoque":5
+      },
+      {
+        "id_armazem":30,
+        "qtdEstoque":10
+      }
+    ]
+  },
+  {
+    "_id": 301,
+    "nome":"Camiseta",
+    "precoSugerido":59.90,
+    "precoComprado":15.90,
+    "descricao":"Camiseta Branca Basica",
+    "inventario":[
+      {
+        "id_armazem":10,
+        "qtdEstoque":1000
+      }
+    ]
+  }
+]
